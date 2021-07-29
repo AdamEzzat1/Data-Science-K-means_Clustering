@@ -3,4 +3,4 @@
 * for different locations.
 * The project will divide the location into a set of clusters. 
 * Compute the centroid for each cluster, its radius, and the total population in that cluster
-*  Select the location from the suggested set of locations based on cluster density and radius.
+* Select the location from the suggested set of locations based on cluster density and radius.
